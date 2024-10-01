@@ -1,16 +1,19 @@
-## Hi there 👋
+## ![github](https://github.com/images/mona-whisper.gif) Hi
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mac-me&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
-<!--
-**mac-me/mac-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pin repository:
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mac-me&repo=meow-facts&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
-Here are some ideas to get you started:
+### Commonly used programming languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mac-me&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social link:
+<a href="https://discord.gg/UZvDdAECV6">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/31wl35pghmdlf6nrllhnhebibkwu?si=X7qsiKB7QzuHOfZ2r4Qxjw">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
