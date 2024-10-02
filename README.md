@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mac-me&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
 ### Pin repository:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mac-me&repo=meow-facts&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
+<a href="https://github.com/mac-me/meow-facts"> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mac-me&repo=meow-facts&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)</a>
 
 ### Commonly used programming languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mac-me&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
