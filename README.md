@@ -1,4 +1,4 @@
-## ![github](https://github.com/images/mona-whisper.gif)
+## ![github](static/2825727.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipster-r&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
 ### Pin repository:
