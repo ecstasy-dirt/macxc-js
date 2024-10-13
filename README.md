@@ -1,11 +1,11 @@
-## ![github](https://github.com/images/mona-whisper.gif) Hi
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mac-me&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
+## ![github](https://github.com/images/mona-whisper.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipster-r&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
 ### Pin repository:
-<a href="https://github.com/mac-me/meow-facts"> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mac-me&repo=meow-facts&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)</a>
+<a href="https://github.com/mac-me/meow-facts"> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tipster-r&repo=meow-facts&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)</a>
 
 ### Commonly used programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mac-me&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipster-r&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=ru&show_icons=true&border_radius=5.5&)
 
 ### Social link:
 <a href="https://discord.gg/UZvDdAECV6">
@@ -13,6 +13,10 @@
 </a>
 <a href="https://open.spotify.com/user/31wl35pghmdlf6nrllhnhebibkwu?si=X7qsiKB7QzuHOfZ2r4Qxjw">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<a
+href="https://t.me/macme_b">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
