@@ -1,16 +1,22 @@
-## ![github](static/1f7a218156ee9502124c072381f7d86e.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tipster-r&theme=transparent&locale=ru&show_icons=true&border_radius=5.5&)
+<img src="static/0d70e590f16d9bd416cf73db4b41adcf.jpg" />
+<h3 align="center">Статистика:</h3>
+<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=ksan0ks&theme=merko&locale=ru&show_icons=true&border_radius=5.5&">
+<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksan0ks&theme=merko&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5">
 
-### Pin repository:
-<a href="https://github.com/mac-me/meow-facts"> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tipster-r&repo=meow-facts&theme=transparent&locale=ru&show_icons=true&border_radius=5.5&)</a>
+<h3 align="center">Мой технический стек:</h3>
+                                  
+<img height=109 aling="center" src="https://skillicons.dev/icons?i=vscode,obsidian,md,materialui,js,html,css,bootstrap"/>
 
-### Commonly used programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tipster-r&size_weight=0.5&count_weight=0.5&theme=transparent&locale=ru&show_icons=true&border_radius=5.5&)
+<h3 align="center">Spotify:</h3>
 
-### Social link:
-<a href="https://discord.gg/UZvDdAECV6">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wl35pghmdlf6nrllhnhebibkwu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wl35pghmdlf6nrllhnhebibkwu" alt="Data Card for Spotify">
 </a>
+<h3 align="center">Discord:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1292500999264665656?idleMessage=Hello%20World&hideSpotify=false)](https://discord.com/users/1292500999264665656)
+
+<h3 align="center">Ссылки:</h3>
 <a href="https://open.spotify.com/user/31wl35pghmdlf6nrllhnhebibkwu?si=X7qsiKB7QzuHOfZ2r4Qxjw">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
@@ -19,5 +25,6 @@ href="https://t.me/macme_b">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h3 align="center">The End</h3>
+
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Disguised%20Face.webp" alt="Disguised Face" width="200" height="200" />
