@@ -1,7 +1,7 @@
 <img src="static/0d70e590f16d9bd416cf73db4b41adcf.jpg" />
 <h3 align="center">Статистика:</h3>
 <img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=ksan0ks&theme=merko&locale=ru&show_icons=true&border_radius=5.5&">
-<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksan0ks&theme=merko&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5">
+<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksan0ks&theme=merko&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5&langs_count=20">
 
 <h3 align="center">Мой технический стек:</h3>
                                   
