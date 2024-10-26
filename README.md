@@ -20,10 +20,6 @@
 <a href="https://open.spotify.com/user/31wl35pghmdlf6nrllhnhebibkwu?si=X7qsiKB7QzuHOfZ2r4Qxjw">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-<a
-href="https://t.me/macme_b">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 
 <h3 align="center">The End</h3>
 
