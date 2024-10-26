@@ -10,7 +10,7 @@
 <h3 align="center">Spotify:</h3>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wl35pghmdlf6nrllhnhebibkwu">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wl35pghmdlf6nrllhnhebibkwu" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wl35pghmdlf6nrllhnhebibkwu&show_border=true&hide_top_tracks=true&hide_title=true&limit=10" alt="Data Card for Spotify">
 </a>
 <h3 align="center">Discord:</h3>
 
