@@ -17,7 +17,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1292500999264665656?idleMessage=Hello%20World&hideSpotify=false)](https://discord.com/users/1292500999264665656)
 
 <h3 align="center">Ссылки:</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/elemsocial-lol?style=for-the-badge&color=333&link=https%3A%2F%2Felemsocial.com%2Fe%2FBrawlStars">
+<a href="https://elemsocial.com/e/BrawlStars"> <img alt="Static Badge" src="https://img.shields.io/badge/elemsocial-lol?style=for-the-badge&color=333&link=https%3A%2F%2Felemsocial.com%2Fe%2FBrawlStars"> </a>
 
 
 <h3 align="center">The End</h3>
