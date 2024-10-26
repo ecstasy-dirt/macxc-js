@@ -17,9 +17,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1292500999264665656?idleMessage=Hello%20World&hideSpotify=false)](https://discord.com/users/1292500999264665656)
 
 <h3 align="center">Ссылки:</h3>
-<a href="https://open.spotify.com/user/31wl35pghmdlf6nrllhnhebibkwu?si=X7qsiKB7QzuHOfZ2r4Qxjw">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
+
 
 <h3 align="center">The End</h3>
 
