@@ -5,7 +5,7 @@
 
 <h3 align="center">Мой технический стек:</h3>
                                   
-<img height=109 aling="center" src="https://skillicons.dev/icons?i=vscode,obsidian,md,materialui,js,html,css,bootstrap"/>
+<img height=109 aling="center" src="https://skillicons.dev/icons?i=obsidian,md,materialui,js,html,css"/>
 
 <h3 align="center">Spotify:</h3>
 
