@@ -2,8 +2,8 @@
 
 <img src="static/hubble_mcg_potw.jpg"/>
 <h2 align="center">Статистика:</h2>
-<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=ksan0ks&theme=nord&locale=ru&show_icons=true&border_radius=5.5&">
-<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksan0ks&theme=nord&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5&langs_count=20">
+<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=macxc-js&theme=nord&locale=ru&show_icons=true&border_radius=5.5&">
+<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macxc-js&theme=nord&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5&langs_count=20">
 
 <h2 align="center">Мой технический стек:</h2>
                                   
