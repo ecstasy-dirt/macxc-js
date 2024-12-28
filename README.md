@@ -1,13 +1,9 @@
 <h1 align="center"><a href="https://www.nohello.net">NO HELLO</a></h1>
 
-<img src="static/hubble_mcg_potw.jpg"/>
-<h2 align="center">Статистика:</h2>
-<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=macxc-js&theme=nord&locale=ru&show_icons=true&border_radius=5.5&">
-<img height=200 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macxc-js&theme=nord&locale=ru&show_icons=true&border_radius=5.5&size_weight=0.5&count_weight=0.5&langs_count=20">
-
-<h2 align="center">Мой технический стек:</h2>
+<img src="https://i.pinimg.com/originals/66/a8/26/66a826c6c0e1b288ba3dc7087be96ac7.gif"/>
+<h2>стек</h2>
                                   
-<img height=109 aling="center" src="https://skillicons.dev/icons?i=obsidian,md,materialui,js,html,css"/>
+<img height=109 aling="center" src="https://skillicons.dev/icons?i=obsidian,md,materialui,js,html,css,php"/>
 
 <h2 align="center">Spotify:</h2>
 
